@@ -35,7 +35,7 @@
 
 ## 📈 LeetCode Stats
 
-> Real-time card with your activity heatmap & solved problems.
+> Live overview of my LeetCode activity and problem-solving progress.
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/harshraj08?theme=dark&font=baloo&ext=activity)
 
